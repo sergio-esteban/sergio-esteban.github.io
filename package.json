@@ -1,0 +1,61 @@
+{
+  "name": "keeptherule.github.io",
+  "version": "1.0.0",
+  "description": "Clean up your life, Add clarity to your Life & Make it Accountable with Personalized plans & 1-on-1 mentorship based on your goals.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "keywords": [
+    "happiness",
+    "habits",
+    "clarity",
+    "life",
+    "plans",
+    "mentorship",
+    "1-on-1",
+    "loop",
+    "tracker",
+    "meaningful",
+    "experiences",
+    "better",
+    "freedom",
+    "lifestyle",
+    "Routines"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keeptherule/keeptherule.github.io.git"
+  },
+  "author": "Sergio Torres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keeptherule/keeptherule.github.io/issues"
+  },
+  "homepage": "https://keeptherule.github.io/",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.11.2",
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "jquery.easing": "^1.4.1",
+    "magnific-popup": "^1.1.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-header": "^2.0.9",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.2",
+    "lite-server": "^2.5.4",
+    "merge-stream": "^2.0.0"
+  }
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1041px" height="348px" viewBox="0 0 1041 348" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>figura</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="125.6644%" gradientTransform="translate(0.500000,0.000000),scale(0.997631,1.000000),rotate(90.000000),translate(-0.500000,-0.000000)" id="radialGradient-1">
+            <stop stop-color="#9FBFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="figura" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Eight" transform="translate(174.000000, 175.000000) scale(-1, 1) rotate(-90.000000) translate(-174.000000, -175.000000) " fill="url(#radialGradient-1)">
+            <g id="Oval-5-Copy">
+                <path d="M174.136464,349.832077 C77.9635505,349.832077 0,272.053245 0,176.108192 C0,80.1631395 77.9635505,2.38430662 174.136464,2.38430662 C270.309377,2.38430662 348.272928,80.1631395 348.272928,176.108192 C348.272928,272.053245 270.309377,349.832077 174.136464,349.832077 Z M174.136464,270.866675 C226.594417,270.866675 269.11999,228.441857 269.11999,176.108192 C269.11999,123.774527 226.594417,81.3497091 174.136464,81.3497091 C121.678511,81.3497091 79.1529382,123.774527 79.1529382,176.108192 C79.1529382,228.441857 121.678511,270.866675 174.136464,270.866675 Z" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
